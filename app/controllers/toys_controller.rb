@@ -29,4 +29,4 @@ class ToysController < ApplicationController
     params.permit(:name, :image, :likes)
   end
 
-end
+end`
